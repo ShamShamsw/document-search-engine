@@ -25,9 +25,11 @@ This project teaches end-to-end search workflows where you can:
 
 ---
 
-## Why This Project?
+## More Projects
 
-A quiz game is one of the best beginner projects because it forces you to think about **how to store and organize data** before you write logic. In interviews, choosing the right data structure is half the battle. This project practices the decision-making process.
+You can access this project and more in this separate repository:
+
+[student-interview-prep](https://github.com/ShamShamsw/student-interview-prep.git)
 
 ---
 
